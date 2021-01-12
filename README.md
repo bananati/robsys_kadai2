@@ -1,5 +1,6 @@
 # robsys_kadai2
 ## 概要
+ロボットシステム学の課題２で作成した，ROSとRaspberry piを用いたウェブカメラの映像をウェブブラウザに表示するコードです．OpenCVを用いて簡単な画像変換をします．
 ## 動作環境
 以下の環境で動作を確認しています．
 - Raspberry Pi 4 Model B
@@ -51,4 +52,4 @@ $ rosrun web_video_server web_video_server
 ## デモ動画
 デモ動画はになります．
 ## 参考文献
-ソースコードはのサイトを参考にしています．
+ソースコードは[こちら](https://qiita.com/wakaba130/items/d3a041164c316a9e7a97)のサイトを参考にしています．
